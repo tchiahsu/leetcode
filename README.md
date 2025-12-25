@@ -1,2 +1,1 @@
-# leetcode
-Notes on Leetcode patterns
+# Data Structure and Algorithms
